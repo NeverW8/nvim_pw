@@ -17,9 +17,11 @@ As an example, you can put this in your remap file (Or your init.lua if you use 
 
 The passwords will then look something like this:
 > Mz6txgeY083b
+
 As a normal password
 
 > VVcyUEtiWVpDNlZBCg==
+
 Then as a base64 encoded one
 
 ## 'I want to suggest a change, can I submit a PR?'
